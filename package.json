@@ -1,0 +1,20 @@
+{
+  "name": "jsbtree",
+  "version": "0.0.1",
+  "description": "Js implementation of BTree database",
+  "main": "jsb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ds07.kcph.ca:8543/ken/JsBTree.git"
+  },
+  "keywords": [
+    "Just",
+    "For",
+    "Fun"
+  ],
+  "author": "Ken",
+  "license": "ISC"
+}
